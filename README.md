@@ -9,9 +9,9 @@ The project consists of 3 Java Classes:
 
 ## Table of contents
 
-1.  [Getting Started] (# Getting-Started) 
-2.  [How to Run] (# How to Run)
-3.  [How to Use] (# How to use)
+1.  [Getting Started]  
+2.  [How to Run] 
+3.  [How to Use] 
     
 ## Getting Started
 #### Minimum requirements
