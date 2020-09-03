@@ -9,9 +9,9 @@ The project consists of 3 Java Classes:
 
 ## Table of contents
 
-1.  [Getting Started] (#Getting-Started) 
-2.  [How to Run] (#How to Run)
-3.  [How to Use] (#How to use)
+1.  [Getting Started] (# Getting-Started) 
+2.  [How to Run] (# How to Run)
+3.  [How to Use] (# How to use)
     
 ## Getting Started
 #### Minimum requirements
@@ -21,7 +21,7 @@ Installation
 
 The way to use this project is to clone it from github and build it using Mave.
 ## How to Run
-    Go to the project directory, open a terminal and run followin command:
+    Go to the project directory, open a terminal and run following command:
     mvn clean install
     mvn exec:java
 
@@ -30,7 +30,7 @@ The way to use this project is to clone it from github and build it using Mave.
     Enter the option number for the the DDLs/DML/DQL you want to execute
     Output should be visible on the console.
     
-## Note: This is just a simple demo for DDL/DML in delta lake and there is no persistance concept. When the terminal session end you won't have the view of tables so won't be able to get expected result after starting a new session and then reading the tables. In this Just remove the spark-ware house folder then build and run the application and create databse and tables.
+### Note: This is just a simple demo for DDL/DML in delta lake and there is no persistance concept. When the terminal session end you won't have the view of tables so won't be able to get expected result after starting a new session and then reading the tables. In this Just remove the spark-ware house folder then build and run the application and create databse and tables.
 
     
 
