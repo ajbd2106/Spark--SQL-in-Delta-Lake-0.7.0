@@ -30,7 +30,7 @@ The way to use this project is to clone it from github and build it using Maven.
     Enter the option number for the the DDLs/DML/DQL you want to execute
     Output should be visible on the console.
     
-#### Note: This is just a simple demo for DDL/DML in delta lake and there is no persistance concept. When the terminal session end you won't have the view of tables so won't be able to get expected result after starting a new session and then reading the tables. In this Just remove the spark-ware house folder then build and run the application and create databse and tables.
+#### Note: This is just a simple demo for DDL/DML in delta lake and there is no persistance concept. When the terminal session end you won't have the view of tables so won't be able to get expected result after starting a new session and then reading the tables you created preveously. In this Just remove the spark-ware house folder then build and run the application and create databse and tables.
 
     
 
