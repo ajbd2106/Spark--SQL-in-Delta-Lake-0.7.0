@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 03 12:33:48 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0174-52c7-50cb-00001c2923e8 
+on database directory /home/knoldus/Desktop/template/DeltaLakeSQLDDL/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@14cef03 
+Loaded from file:/home/knoldus/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_265-8u265-b01-0ubuntu2~18.04-b01
+user.dir=/home/knoldus/Desktop/template/DeltaLakeSQLDDL
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-42-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
