@@ -1,4 +1,4 @@
-# SQL-DDLs-DMLs-DQL-in-Delta-Lake-0.7.0
+# SQL-SQL-in-Delta-Lake-0.7.0
 
 The project consists of 3 Java Classes:
 
